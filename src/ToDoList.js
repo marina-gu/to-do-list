@@ -106,12 +106,9 @@ class ToDoList extends Component {
       );
     }
   }
-  
+
   class ToDoItems extends Component {
-    constructor(props){
-      super(props);
-    }
-    
+  
     render() {
       return (
         <ul id={this.props.id} className="todo-list">
