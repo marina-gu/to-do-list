@@ -1,6 +1,6 @@
-# To Do List -React App
+## To Do List -React App
 
-## _This is an online application for managing and planning your time._
+### This is an online application for managing and planning your time.
 ----
 ![img](https://github.com/marina-gu/to-do-list/blob/main/todolist.png)
 
@@ -15,12 +15,31 @@
 
 ![gif](https://github.com/marina-gu/to-do-list/blob/main/animation%20(2).gif)
 
+----
+
 ### Choosing the Technology Stack
 
 To build the To Do list-App, HTML, CSS, and JavaScript were used for the Frontend and a framework for the Backend such as React and Node.js.
-```React
 
+```Javascript
+import { Component } from 'react';
+
+class ToDoList extends Component {
+    constructor(props){
+      super(props);
+      
+      this.state = {
+        todo: [],
+        done: [],
+        input: ''
+      }
+      
+      this.handleChange = this.handleChange.bind(this);
+      this.handleSubmit = this.handleSubmit.bind(this);
+    }
+    
 ```
+----
 
 ### Runs the app in the development mode.
 
