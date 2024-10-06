@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# To Do List -React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an online application for managing and planning your time.
 
 ## Available Scripts
 
@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open https://beamish-jelly-73bbcc.netlify.app to view it in your browser.
+Open [link](https://beamish-jelly-73bbcc.netlify.app) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
