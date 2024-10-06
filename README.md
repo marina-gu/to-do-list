@@ -1,6 +1,6 @@
 # To Do List -React App
 
-This is an online application for managing and planning your time.
+## _This is an online application for managing and planning your time._
 ----
 ![img](https://github.com/marina-gu/to-do-list/blob/main/todolist.png)
 
