@@ -17,11 +17,11 @@
 
 ### Choosing the Technology Stack
 
-To build the to-do list web app, HTML, CSS, and JavaScript were used for the frontend, and a framework for the backend such as React and Node.js.
+To build the To Do list-App, HTML, CSS, and JavaScript were used for the Frontend and a framework for the Backend such as React and Node.js.
+```React
 
-### _Runs the app in the development mode._
+```
+
+### Runs the app in the development mode.
 
 Open [link](https://beamish-jelly-73bbcc.netlify.app) to view it in your browser.
-
-
-
