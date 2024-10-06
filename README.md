@@ -2,7 +2,7 @@
 
 ### This is an online application for managing and planning your time.
 ----
-![img](https://github.com/marina-gu/to-do-list/blob/main/todolist.png)
+![img]()
 
 ### In the application you can
 
