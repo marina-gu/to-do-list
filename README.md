@@ -16,7 +16,8 @@
 ![gif](https://github.com/marina-gu/to-do-list/blob/main/animation%20(2).gif)
 
 ----
-
+### Open [link](https://beamish-jelly-73bbcc.netlify.app) to view it in your browser
+----
 ### Choosing the Technology Stack
 
 To build the To Do list-App, HTML, CSS, and JavaScript were used for the Frontend and a framework for the Backend such as React and Node.js.
@@ -40,5 +41,3 @@ class ToDoList extends Component {
     
 ```
 ----
-
-### Open [link](https://beamish-jelly-73bbcc.netlify.app) to view it in your browser
