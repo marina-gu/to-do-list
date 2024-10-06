@@ -41,6 +41,4 @@ class ToDoList extends Component {
 ```
 ----
 
-### Runs the app in the development mode.
-
-Open [link](https://beamish-jelly-73bbcc.netlify.app) to view it in your browser.
+### Open [link](https://beamish-jelly-73bbcc.netlify.app) to view it in your browser
