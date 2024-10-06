@@ -1,6 +1,7 @@
 # To Do List -React App
 
 This is an online application for managing and planning your time.
+![img]()
 
 ## Available Scripts
 
