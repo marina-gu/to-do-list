@@ -4,6 +4,20 @@
 ----
 ![img](https://github.com/marina-gu/to-do-list/blob/main/todolist.png)
 
+### In the application you can
+
+ - Mark tasks as To Do and Done.
+
+ - Delete tasks.
+
+ - View tasks in a clear and intuitive interface.
+
+![gif]()
+
+### Choosing the Technology Stack
+
+To build the to-do list web app, HTML, CSS, and JavaScript were used for the frontend, and a framework for the backend such as React and Node.js.
+
 ### _Runs the app in the development mode._
 
 Open [link](https://beamish-jelly-73bbcc.netlify.app) to view it in your browser.
