@@ -12,7 +12,9 @@
 
  - View tasks in a clear and intuitive interface.
 
-![gif]()
+----
+
+![gif](https://github.com/marina-gu/to-do-list/blob/main/animation%20(2).gif)
 
 ### Choosing the Technology Stack
 
