@@ -75,7 +75,7 @@ class ToDoList extends Component {
             <hr className="todo-subheading"></hr>
             <form className="todo-add-form" onSubmit={this.handleSubmit}>
               <label className="todo-add-label" htmlFor="add-item">What do you want to do?</label>
-              <input id="add-item" className="todo-add-item" type="text" value={this.state.input} onChange={this.handleChange} placeHolder="Clean my room"/>
+              <input id="add-item" className="todo-add-item" type="text" value={this.state.input} onChange={this.handleChange} placeholder="Clean my room"/>
               <button className="todo-add-submit-item" type="submit">Add</button>
             </form>
           </div>
