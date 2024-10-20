@@ -66,7 +66,7 @@ class ToDoList extends Component {
           
           <div className="todo-heading">
             <div className="todo-heading-circle">
-              <i class="fas fa-check"></i>
+              <i classname="fas fa-check"></i>
             </div>
             <h1 className="todo-heading-text">To Do List</h1>
           </div>
@@ -118,11 +118,11 @@ class ToDoList extends Component {
                 <p className="todo-list-item-text">{item.text}</p>
                 <div className="todo-list-actions">
                   <button className="todo-list-action-delete" onClick={this.props.delete.bind(item, key)}>
-                    <i class="fas fa-trash fa-1x"></i>
+                    <i className="fas fa-trash fa-1x"></i>
                   </button>
   
                   <button className="todo-list-action-toggle" onClick={this.props.toggleDone.bind(item, key)}>
-                    <i class="fas fa-check fa-1x"></i>
+                    <i className="fas fa-check fa-1x"></i>
                   </button>
                 </div>
               </li>
